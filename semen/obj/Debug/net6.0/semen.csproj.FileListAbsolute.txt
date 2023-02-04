@@ -1,0 +1,15 @@
+C:\Users\davli\Desktop\C#\semen\bin\Debug\net6.0\semen.exe
+C:\Users\davli\Desktop\C#\semen\bin\Debug\net6.0\semen.deps.json
+C:\Users\davli\Desktop\C#\semen\bin\Debug\net6.0\semen.runtimeconfig.json
+C:\Users\davli\Desktop\C#\semen\bin\Debug\net6.0\semen.dll
+C:\Users\davli\Desktop\C#\semen\bin\Debug\net6.0\semen.pdb
+C:\Users\davli\Desktop\C#\semen\obj\Debug\net6.0\semen.csproj.AssemblyReference.cache
+C:\Users\davli\Desktop\C#\semen\obj\Debug\net6.0\semen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davli\Desktop\C#\semen\obj\Debug\net6.0\semen.AssemblyInfoInputs.cache
+C:\Users\davli\Desktop\C#\semen\obj\Debug\net6.0\semen.AssemblyInfo.cs
+C:\Users\davli\Desktop\C#\semen\obj\Debug\net6.0\semen.csproj.CoreCompileInputs.cache
+C:\Users\davli\Desktop\C#\semen\obj\Debug\net6.0\semen.dll
+C:\Users\davli\Desktop\C#\semen\obj\Debug\net6.0\refint\semen.dll
+C:\Users\davli\Desktop\C#\semen\obj\Debug\net6.0\semen.pdb
+C:\Users\davli\Desktop\C#\semen\obj\Debug\net6.0\semen.genruntimeconfig.cache
+C:\Users\davli\Desktop\C#\semen\obj\Debug\net6.0\ref\semen.dll

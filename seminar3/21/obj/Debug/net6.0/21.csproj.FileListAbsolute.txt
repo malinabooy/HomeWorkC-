@@ -1,0 +1,15 @@
+C:\Users\davli\Desktop\HomeWorkC#\seminar3\21\bin\Debug\net6.0\21.exe
+C:\Users\davli\Desktop\HomeWorkC#\seminar3\21\bin\Debug\net6.0\21.deps.json
+C:\Users\davli\Desktop\HomeWorkC#\seminar3\21\bin\Debug\net6.0\21.runtimeconfig.json
+C:\Users\davli\Desktop\HomeWorkC#\seminar3\21\bin\Debug\net6.0\21.dll
+C:\Users\davli\Desktop\HomeWorkC#\seminar3\21\bin\Debug\net6.0\21.pdb
+C:\Users\davli\Desktop\HomeWorkC#\seminar3\21\obj\Debug\net6.0\21.csproj.AssemblyReference.cache
+C:\Users\davli\Desktop\HomeWorkC#\seminar3\21\obj\Debug\net6.0\21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davli\Desktop\HomeWorkC#\seminar3\21\obj\Debug\net6.0\21.AssemblyInfoInputs.cache
+C:\Users\davli\Desktop\HomeWorkC#\seminar3\21\obj\Debug\net6.0\21.AssemblyInfo.cs
+C:\Users\davli\Desktop\HomeWorkC#\seminar3\21\obj\Debug\net6.0\21.csproj.CoreCompileInputs.cache
+C:\Users\davli\Desktop\HomeWorkC#\seminar3\21\obj\Debug\net6.0\21.dll
+C:\Users\davli\Desktop\HomeWorkC#\seminar3\21\obj\Debug\net6.0\refint\21.dll
+C:\Users\davli\Desktop\HomeWorkC#\seminar3\21\obj\Debug\net6.0\21.pdb
+C:\Users\davli\Desktop\HomeWorkC#\seminar3\21\obj\Debug\net6.0\21.genruntimeconfig.cache
+C:\Users\davli\Desktop\HomeWorkC#\seminar3\21\obj\Debug\net6.0\ref\21.dll
