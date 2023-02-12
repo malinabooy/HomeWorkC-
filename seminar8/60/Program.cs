@@ -18,7 +18,7 @@ int GetNumber(string message)
         if(int.TryParse(Console.ReadLine(), out result) && result > 0)
             break;
         else
-            Console.WriteLine("Вы ввелин не корректное число. Повторите ввод"); 
+            Console.WriteLine("Вы ввели не корректное число. Повторите ввод"); 
     }
 
     return result;
