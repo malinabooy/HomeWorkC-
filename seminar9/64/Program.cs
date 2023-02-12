@@ -40,5 +40,5 @@ void PrintNumber(int N, int i)
 
 Console.WriteLine();
 int i = 1;
-int numbers = GetNaturalNumber("Введите натуральное число: ");
-PrintNumber(numbers, i);
+int N = GetNaturalNumber("Введите натуральное число: ");
+PrintNumber(N, i);
